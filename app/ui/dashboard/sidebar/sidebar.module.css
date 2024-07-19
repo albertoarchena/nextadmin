@@ -38,6 +38,7 @@
   font-weight: bold;
   font-size: 13px;
   margin: 10px 0px;
+  text-decoration: no;
 }
 
 .logout {
